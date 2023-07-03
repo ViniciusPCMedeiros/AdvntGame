@@ -1,8 +1,8 @@
 package vini.pcm.Efeitos;
 
-    public enum Target {
+    public enum Alvo {
         JOGADOR,
-        CARTA,
+        CARD,
         DECK,
         DISCARPILE
     }
